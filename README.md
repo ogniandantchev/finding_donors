@@ -1,2 +1,2 @@
-# finding_donors_prj
-for nd230
+# finding_donors
+project for nd230
