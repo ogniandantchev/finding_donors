@@ -1,2 +1,2 @@
 # finding_donors_prj
-for Udacity nd230
+for nd230
